@@ -1,15 +1,15 @@
 # How to land a Summer/Spring Job as a Developer at Reaktor
 
-This page is for those of you who are looking for or considering a Summer Job or other Junior Developer positions at [Reaktor](https://www.reaktor.com). Please check out our [junior job postings](https://www.reaktor.com/junior/) for general information. We wrote this page because we want you to succeed and partly because we want great applications that also make our jobs a bit easier.
+This page is for those of you who are looking for or considering a Summer Job or other Junior Developer positions at [Reaktor](https://www.reaktor.com). Please check out our [junior job postings](https://www.reaktor.com/trainees/) for general information. We wrote this page because we want you to succeed and partly because we want great applications that also make our jobs a bit easier.
 
-## Should I apply for Reaktor Summer/Spring Jobs?
+## Should I apply for Reaktor Summer/Spring/Fall Jobs?
 
 If you’re looking for challenges, fun and learning while doing some real-world work with our clients, this might be for you! However, it makes sense to ask yourself a couple of questions:
 
-- Do I want to team up with the brightest minds in the software scene, and face the challenge of working with our clients? [read more](https://www.reaktor.com/junior/)
+- Do I want to team up with the brightest minds in the software scene, and face the challenge of working with our clients? [read more](https://www.reaktor.com/trainees/)
 - Can I roughly match at least, say, 7 of the top 10 requirements in the tech skills section below
 - Can I demonstrate my skills with existing code I’ve written? 
-If not, am I willing to take on the [coding assignment](https://www.reaktor.com/junior-dev-assignment/) and spend a few evenings working on that?
+If not, am I willing to take on the [coding assignment](https://assignments.reaktor.com/birdnest/) and spend a few evenings working on that?
 
 For instance:
 
